@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Céline</h1>
-<h3 align="center">A young developer searching for a new job</h3>
 
-- 🔭 I’m currently working on [MamaBears](https://bit.ly/3FXCu1y)
+- 🔭 I’m currently working on [Muller Automotive]([https://bit.ly/3FXCu1y](https://www.mullerautomotive.fr/))
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/portfoliocelineb](https://bit.ly/portfoliocelineb)
 
